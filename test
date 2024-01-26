@@ -1,6 +1,7 @@
 Resolving conflicts
 The 3-way merge editor allows you to resolve conflicts by accepting either HELLO WORLD or both changes. You can also manually edit the result of the merge.
-
+111111
+23322332323232
 For some conflicts, the merge editor shows an Accept Combination button. Accepting the 这是测试来自2 resolves the current
 conflict
 by smartly merging both changes. This is especially useful for changes in the same line that don't touch the same characters.
